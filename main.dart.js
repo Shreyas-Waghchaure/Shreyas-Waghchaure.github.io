@@ -58064,7 +58064,7 @@ A.Mx.prototype={
 O(a){var s=null,r=a.a1(t.w).f
 return A.bc(s,A.d8(A.a([A.b3("Design and build by Shreyas Waghchaure",A.b8(B.h,B.e,13,B.m),s,s),A.b3("Made with Flutter \ud83d\udc99",A.b8(B.h,B.e,13,B.m),s,s)],t.p),B.a_,B.cw),B.c6,s,50,s,s,r.a.a)}}
 A.My.prototype={
-O(a){var s=null,r=t.w,q=a.a1(r).f,p=A.bc(s,A.b3("Hello, I'm ",A.b8(B.h,B.e,20,B.m),s,s),s,s,s,s,new A.aE(35,25,0,0),s),o=A.bc(s,A.b3("Shreyas Waghchaure",A.b8(B.h,B.e,35,B.m),s,s),s,s,s,s,new A.aE(35,5,0,0),s),n=A.bc(s,A.b3("Flutter Developer",A.b8(B.h,B.e,20,B.m),s,s),s,s,s,s,new A.aE(35,5,0,0),s),m=A.dF(s,A.bc(s,A.dS(A.b3("Download CV",A.b8(B.h,B.e,20,B.bz),s,s),s,s),new A.S(4294921257),s,44,new A.aE(35,35,0,0),s,160),!1,s,s,s,s,s,new A.a7P(new A.a7O()),s,s,s),l=a.a1(r).f
+O(a){var s=null,r=t.w,q=a.a1(r).f,p=A.bc(s,A.b3("Hello, I'm ",A.b8(B.h,B.e,20,B.m),s,s),s,s,s,s,new A.aE(35,25,0,0),s),o=A.bc(s,A.b3("Shreyas Waghchaure",A.b8(B.h,B.e,35,B.m),s,s),s,s,s,s,new A.aE(35,5,0,0),s),n=A.bc(s,A.b3("Flutter Developer",A.b8(B.h,B.e,20,B.m),s,s),s,s,s,s,new A.aE(35,5,0,0),s),m=A.dF(s,A.bc(s,A.dS(A.b3("View CV",A.b8(B.h,B.e,20,B.bz),s,s),s,s),new A.S(4294921257),s,44,new A.aE(35,35,0,0),s,160),!1,s,s,s,s,s,new A.a7P(new A.a7O()),s,s,s),l=a.a1(r).f
 r=a.a1(r).f
 return A.bc(s,A.d8(A.a([p,o,n,m,A.bc(B.b_,A.T8("picture.png"),s,s,l.a.b*0.3,new A.aE(65,25,0,0),B.by,r.a.a*0.6)],t.p),B.bt,B.H),s,s,s,s,s,q.a.a)}}
 A.a7O.prototype={
